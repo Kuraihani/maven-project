@@ -3,8 +3,10 @@ package com.example;
 
 public class Greeter {
 
-  
-  public Greeter(allowMissingParamTags) {
+  /**
+  *this is a class
+  */
+  public Greeter() {
     
   }
 
