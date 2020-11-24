@@ -4,8 +4,8 @@ package com.example;
 public class Greeter {
 
   
-  public Greeter() {
-
+  public Greeter(allowMissingParamTags) {
+    
   }
 
   public final String greet(final String someone) {
