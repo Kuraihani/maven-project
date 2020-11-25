@@ -1,5 +1,5 @@
 /**
- * this is a package
+ * This is a package
  */
 package com.example;
 
@@ -11,7 +11,7 @@ public class Greeter {
   
   
   /**
-   * this is a constructor.
+   * This is a constructor.
    */
   public Greeter() {
     
